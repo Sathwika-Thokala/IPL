@@ -1,0 +1,10 @@
+CSK scoreboard==>
+Name		runs	ball	4s	6s	SR
+
+p1		100	60	7	4	166.00
+p2		120	60	4	5	200.00
+PBKS scoreboard==>
+Name		runs	ball	4s	6s	SR
+ 
+p3		100	60	5	3	166.00
+p4		90	60	4	5	150.00
